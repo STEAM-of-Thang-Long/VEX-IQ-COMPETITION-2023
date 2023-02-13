@@ -1,5 +1,4 @@
-# VEX-IQ-COMPETITION-2023
-The code SOTL team had used in VEX IQ NATIONAL CHAMPIONSHIP 2023
+
 TEAM MATES
 Nguyen Tu Anh - 2k7 - A2
 Nguyen Hoang Hai -2k7 -
